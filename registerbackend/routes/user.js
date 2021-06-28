@@ -7,10 +7,5 @@ router.post('/signup', UserController.signup);
 
 
 
-// //creating route for login
-
-// router.post('/login', UserController.login);
-
-
 
 module.exports = router
